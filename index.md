@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Devjiro76
+## Devjiro76 이에요
 
-You can use the [editor on GitHub](https://github.com/devjiro76/devjiro76.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Devjiro76 not means born in 1976.
+저는 1976년도에 태어나지 않았습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devjiro76/devjiro76.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Devjiro76 is from the character "Soldier76" of the Game "Overwatch"
+Devjiro76은 오버워치에 나오는 "솔져76"의 이름을 따왔습니다.
